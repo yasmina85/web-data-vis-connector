@@ -1,1 +1,1 @@
-# web-data-vis-connector
+# L&S88-2 Web Data Visualization
