@@ -1,6 +1,6 @@
 {
   "name": "Activity 1",
-  "endpoint": "cal/ds101/su17/hw02",
+  "endpoint": "cal/ds101/su17/lab02",
   "src": [
     "activity01.ipynb"
   ],
